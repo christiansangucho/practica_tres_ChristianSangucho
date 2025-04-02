@@ -43,9 +43,9 @@ Se entregará un archivo `.zip` con **todo el repositorio completo**, incluyendo
 ## 📦 Entrega Trabajo Grupo 3
 
 ## A Continuación la gráfica generada **dashboard_cyberseguridad_kaggle.png**
-![dashboard_cyberseguridad_kaggle](/workspaces/practica_tres_gr_3/dashboard_cyberseguridad_kaggle.png){width=width height=height}
+![dashboard_cyberseguridad_kaggle](/dashboard_cyberseguridad_kaggle.png){width=width height=height}
 <div>
 <p style = 'text-align:center;'>
-<img src="/workspaces/practica_tres_gr_3/dashboard_cyberseguridad_kaggle.png" alt="JuveYell" width="300px">
+<img src="/dashboard_cyberseguridad_kaggle.png" alt="JuveYell" width="300px">
 </p>
 </div>
