@@ -1,4 +1,4 @@
-# Práctica 3 - Grupo 3
+# Práctica 3 - Christian Sangucho
 
 Este repositorio centraliza el trabajo colaborativo del Grupo 3 para la **Práctica 3** de la asignatura. El objetivo es simular, preprocesar y analizar datos tipo log, utilizando herramientas vistas en clase.
 
